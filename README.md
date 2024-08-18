@@ -8,7 +8,7 @@ This project involves building and evaluating two models to detect spam: a Logis
 
 The dataset can be accessed via the following link:
 
-Spam Data
+https://github.com/ReccaS/classification-challenge/blob/main/M13_Starter_Code/spam_detector.ipynb
 
 **Importing the Data**
 
