@@ -63,6 +63,10 @@ Train a Random Forest Classifier model, make predictions, and calculate accuracy
 
 ![image](https://github.com/user-attachments/assets/4e72ab33-5570-4f33-9abe-a53d1977af18)
 
+# Reference
+
+Hopkins, M., Reeber, E., Forman, G. & Suermondt, J. 1999. Spambase [Dataset]. UCI Machine Learning Repository. Available: https://archive.ics.uci.edu/dataset/94/spambaseLinks to an external site. [2023, April 28].
+
 
 
 
